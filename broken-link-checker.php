@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Syrus Link Checker
+Plugin URI: https://wordpress.org/plugins/syrus-link-checker/
 Description: Checks your blog for broken links and notifies you if any.
 Version: 1.0
 Author: Syrus Industry
-Author URI: http://syrusindustry.com/
+Author URI: http://www.syrusindustry.com/
 Text Domain: syrus-link-checker
 */
 
