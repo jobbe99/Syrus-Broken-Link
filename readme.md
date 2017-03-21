@@ -20,18 +20,18 @@ notifies you if any.
 
 ## Installation
 
-Simply [download the zip](https://github.com/jobbe99/Syrus-Broken-Link/archive/master.zip) and install it like any other wordpress plugin
+Simply [download the zip](https://github.com/jobbe99/Syrus-Broken-Link/archive/master.zip) and install it like any other wordpress plugin.
 
 ## Frequently Asked Questions
 None yet!
 
 ## Screenshots
-Our team is still making pics.
+Our team is still taking pics.
 
 ## Changelog
  1.1
-* Ultima Versione stabile
+* Last stable version so far!
 
 ## Upgrade Notice
  1.1
-Ultima Versione stabile
+* Last stable version so far!
